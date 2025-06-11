@@ -1,0 +1,8 @@
+Welcome, Wukong. You have been entrusted with a sacred duty.|images/jade_emperor.png
+Guard this heavenly Peach Garden until the banquet of immortals begins.|images/peach_garden.png
+These peaches are not ordinary… they grant immortality.|images/peach.png
+Wukong, you must not touch even one of them.|images/jade_emperor_serious.png
+…
+No one is watching...|images/wukong_suspicious.png
+Just one peach can’t hurt.|images/peach.png
+They do look delicious…|images/wukong_hungry.png
