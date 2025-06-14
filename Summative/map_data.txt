@@ -1,0 +1,1 @@
+290, 230, 75 | images/backgrounds/wheatfield.png
